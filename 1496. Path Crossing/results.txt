@@ -1,0 +1,12 @@
+JDBJohnBrown
+Accepted
+
+JDBJohnBrown submitted at Dec 23, 2023 08:10
+
+Runtime
+53ms
+Beats 49.64%of users with JavaScript
+
+Memory
+41.52MB
+Beats 94.96%of users with JavaScript
